@@ -1,0 +1,6 @@
+{
+  "script": "/*@visual.snapshot*/",
+  "args": [
+    "Home Page"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "script": "/*@visual.init*/",
+  "args": [
+    "My React App"
+  ]
+}
